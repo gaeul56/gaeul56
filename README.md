@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=wave&text=gaeulgithub)
+</div>
 <!--
 **gaeul56/gaeul56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
