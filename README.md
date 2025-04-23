@@ -1,24 +1,8 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=wave&text=멋진개발자%20서가을)
+<h4> Experience </h4>
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</div>
-<!--
-**gaeul56/gaeul56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- `굿어스 DT기술팀 VMware 엔지니어`  <sub>(21.03 ~ 23.06)</sub>
+- `아이웨이 기술개발1팀 백엔드 개발` <sub>(24.07 ~ 현재)</sub>
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4> Certificate </h4>
+- `정보처리기사`  <sub>(24.09)</sub>
